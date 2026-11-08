@@ -1,0 +1,8 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+secrets/
+node_modules/
+.DS_Store
